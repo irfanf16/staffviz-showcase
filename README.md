@@ -37,13 +37,6 @@ All four ship as Docker images.
 **Angular 18 admin.** Standalone-component architecture with `@angular/cdk`, `ng-bootstrap`, CKEditor 5 with a custom upload adapter, and date-range pickers for reporting.
 
 
-## Screenshots
-
-<!-- ![Admin Dashboard](docs/admin-dashboard.png) -->
-<!-- ![Employee Panel](docs/employee-panel.png) -->
-<!-- ![Plans Billing](docs/plans-billing.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
