@@ -7,7 +7,7 @@ An HR platform covering employee self-service, subscription plans, affiliates an
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Full-stack engineer — designed the modular API, built the employee panel and admin SPA, containerised all four services.
+Full-stack engineer
 
 ## Architecture
 
